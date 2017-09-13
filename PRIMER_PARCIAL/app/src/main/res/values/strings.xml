@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Online Bookstore</string>
+    <string name="titulo">Online Bookstore</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="titulo_libro">Titulo del Libro</string>
+    <string name="isbn">ISBN</string>
+    <string name="FechaPublicacion">Fecha de Publicacion</string>
+    <string name="Catalogo">Catalogo</string>
+    <string name="bottonAceptar">OK</string>
+</resources>
